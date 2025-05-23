@@ -1,4 +1,5 @@
 # SigmaGhost-MailTool
+
 A secure GUI-based tool to validate email/password combinations via SMTP checks. Features multi-threaded processing, real-time logging, and result categorization. Includes a license verification system and Telegram channel integration.
 
 Key Features:
@@ -20,6 +21,7 @@ Requirements
 Python 3.6+
 
 tkinter usually included with Python; on Linux, 
+
 use ======> Command >============> sudo apt-get install python3-tk
 
 Via Pip

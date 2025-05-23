@@ -26,10 +26,10 @@ Via Pip
 
 Clone the repository:
 
-Command => git clone https://github.com/yourusername/mailguard-pro.git
+Command => git clone https://github.com/sigma-cyber-ghost/SigmaGhost-MailTool.git
 Command => cd mailguard-pro
 Install dependencies (no external packages required for the core script).
 
 =========================> Usage <========================================================
 Run the Application:
-Command ==> python sigma-mail-checker.py
+Command ==> python sigma-ghost-mail.py

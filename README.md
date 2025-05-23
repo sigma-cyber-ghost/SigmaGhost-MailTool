@@ -19,4 +19,17 @@ Installation
 Requirements
 Python 3.6+
 
-tkinter (usually included with Python; on Linux, use sudo apt-get install python3-tk)
+tkinter usually included with Python; on Linux, 
+use ======> Command >============> sudo apt-get install python3-tk
+
+Via Pip
+
+Clone the repository:
+
+Command => git clone https://github.com/yourusername/mailguard-pro.git
+Command => cd mailguard-pro
+Install dependencies (no external packages required for the core script).
+
+=========================> Usage <========================================================
+Run the Application:
+Command ==> python sigma-mail-checker.py
